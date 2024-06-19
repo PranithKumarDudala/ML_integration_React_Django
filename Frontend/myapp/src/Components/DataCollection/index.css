@@ -1,0 +1,26 @@
+.data-body {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-item {
+    width: 30vw;
+    padding: 20px;
+    margin: auto;
+    height: 40vh;
+    border: 1px solid black;
+}
+
+.label-item {
+    font-size: 15px;
+    font-weight: 600;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+}
+
+.input-item {
+    margin-bottom: 10px;
+}
